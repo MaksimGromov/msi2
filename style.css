@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+footer{
+  background-color: black ;
+  color: white;
+}
+h1{
+  margin-left:50px;
+  margin-bottom:25px;
+  margin-right:50px;
+  margin-top:25px;
+}
